@@ -19,17 +19,10 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
-
 ---
 
 ### 🔗 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/arish2005)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) *(if you have one)*
 - 📫 Email: [arishvijay1305@gmail.com](mailto:your.email@example.com)
 
 ---
