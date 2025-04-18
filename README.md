@@ -27,6 +27,4 @@
 
 ---
 
-📌 *Pinned Repos:*  
-Make sure to pin your top 6 projects on GitHub — Python apps, blockchain demos, or any school/college projects!
 
