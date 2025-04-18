@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [ARISH V]</h1>
+<h1 align="center">Hi 👋, I'm ARISH V</h1>
 <h3 align="center">Python Enthusiast | Blockchain Learner | Tech Explorer</h3>
 
 - 🌱 I’m currently learning **Advanced Python**, **Flask**, and **Blockchain integration**
